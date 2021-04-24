@@ -11,7 +11,9 @@ I believe some of the the plots did a much better job at representing this commo
 Maximum temperature showed the easiest relationship to observe.  As cities approch the equator the maximume temperature rises.  
 Cloudiness was also slightly representative of this, as cities got closer the the equator the cloudiness decreased.  
 
-I don't believe that humidity and wind speed are that accurate at showcasing data to enhance our project question.  Perhaps if more cities or a different data set of cities (program run again and multiple sets of plot were compared) were analyzed these pieces of information would show more dramatic information.
+I don't believe that humidity and wind speed are that accurate at showcasing data to enhance our project question.  Perhaps if more cities or a different data set of cities (program run again and multiple sets of plot were compared) were analyzed these pieces of information would show more dramatic information.  
+
+I have made comments for each of my plots in the program file.  Please reference those for my specific thoughts on the individual analysis.
 
 I also think the plot requested for this assignment are very limited.  The data doesn't allow us to make observation in relation to altitude or proximity to water sources.  These things would drastically enhance humidity and wind speed data.
 
