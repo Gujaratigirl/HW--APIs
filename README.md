@@ -6,7 +6,10 @@ As this assignment was shorter than previous ones and only half of what was orig
 
 ## For the WeatherPy assignment we were looking to answer the simple question "What's the weather like as we approach the equator?" with data.
 
-I believe some of the the plots did a much better job at representing this common knowledge piece of information-"Duh. It gets hotter..." 
+I believe some of the the plots did a much better job at representing this common knowledge piece of information-"Duh. It gets hotter..."
+
+The samples was a resonable distribution.  
+Range from -90 to 90 for latitude and -180 to 180 for longitude. Near the poles there will be less cities so don't expect the sample to have a to many on the far edges.  This sample will represent the population of cities well, so that we may observe trends in the data.   
 
 Maximum temperature showed the easiest relationship to observe.  As cities approch the equator the maximume temperature rises.  
 Cloudiness was also slightly representative of this, as cities got closer the the equator the cloudiness decreased.  
