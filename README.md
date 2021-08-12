@@ -20,6 +20,17 @@ I have made comments for each of my plots in the program file.  Please reference
 
 I also think the plot requested for this assignment are very limited.  The data doesn't allow us to make observation in relation to altitude or proximity to water sources.  These things would drastically enhance humidity and wind speed data.
 
+
+Example of the Data Set-
+
+<img width="832" alt="Screen Shot 2021-08-12 at 4 17 36 PM" src="https://user-images.githubusercontent.com/80181938/129267072-0ac6cda5-b0a8-4d84-8fe8-b0f12981ba89.png">
+
+
+Example of a graph- Temperature in the Northern Hempisphere by Latitude
+
+<img width="537" alt="Screen Shot 2021-08-12 at 4 17 50 PM" src="https://user-images.githubusercontent.com/80181938/129267152-8d0879a6-4faa-4a5c-90bf-9e214ea62a59.png">
+
+
  
 
 
