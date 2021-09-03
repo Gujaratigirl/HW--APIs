@@ -1,8 +1,5 @@
 # HW--APIs
-##  *Please use file WeatherPy.ipynb in the WeatherPy folder*
 
-## *The gmaps library didnot work when installing for the class therefore the instuctor told us not to complete this part of the assignment*
-As this assignment was shorter than previous ones and only half of what was originally expected my number of commits is much lower than previous assignments. 
 
 ## For the WeatherPy assignment we were looking to answer the simple question "What's the weather like as we approach the equator?" with data.
 
